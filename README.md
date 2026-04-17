@@ -1,2 +1,3 @@
-<img width="2847" height="1597" alt="Dashboard_ER_Wait_Time_ _Patient_Flow" src="https://github.com/user-attachments/assets/e8151222-ab80-4388-8283-8d94656f7931" />
 
+
+<img width="1920" height="1076" alt="Dashboard_ER_Wait_Time_ _Patient_Flow" src="https://github.com/user-attachments/assets/d055c165-d99e-4963-8802-032d82b66cb9" />
