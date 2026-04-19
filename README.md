@@ -1,7 +1,8 @@
 Hospital Performance Dashboard: ER Wait Time & Patient Flow (Power BI)
 
 Healthcare-focused Power BI dashboard analyzing ER wait time, patient flow, and hospital operational performance. The report highlights inefficiencies in emergency care delivery and provides visibility into key operational KPIs.
- width="1920" height="1076" alt="dashboard-overview" src="https://github.com/user-attachments/assets/90d735ec-bed2-43e0-b920-b9b66fe1f773" />
+<img width="1281" height="718" alt="dashboard" src="https://github.com/user-attachments/assets/6102f4d9-76bd-4a3e-9965-93af3ec0a62b" />
+
 Overview
 
 This project is an end-to-end Power BI dashboard built to analyze:
